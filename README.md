@@ -10,7 +10,7 @@
 <br />
 
 
-### Other INGO
+### Other INFO
 - [My Telegram Channel](https://t.me/official_programmerchannel)
 - [My Telegram Chat](https://t.me/official_programmerchat)
 - [My Telegram](https://t.me/MasterStroke777)
