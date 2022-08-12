@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Master-Stroke)
 
 ## I'm a Programmer
-- 💪 I like to write code
+- 💪 I like write code
 - 🥅 I am constantly learning new things
 
 ### Languages what I'm using
