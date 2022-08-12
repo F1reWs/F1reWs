@@ -14,4 +14,5 @@
 - [My Telegram Chat](https://t.me/official_programmerchat)
 - [My Telegram](https://t.me/MasterStroke777)
 - [My Site](http://klondikeprogrammers.ga)
+- [Site BIO](https://master-stroke.github.io)
 - [More INFO](https://t.me/official_MasterStroke777)
