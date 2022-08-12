@@ -1,9 +1,9 @@
 <div align="center">
-## Hi there 👋, I'm Platon and I'm a Programmer.
+### Hi there 👋, I'm Platon and I'm a Programmer.
 
 ![](https://komarev.com/ghpvc/?username=Master-Stroke)
 
-## I'm a Programmer
+### I'm a Programmer
 💪 I like to write code
 🥅 I am constantly learning new things
 
