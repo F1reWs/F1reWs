@@ -1,5 +1,5 @@
 <h1>
-   Hey there<img src="./img/hi.gif" width="30px">! I'm Platon
+   Hey there <img src="./img/hi.gif" width="30px">, I'm Platon
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=Master-Stroke)
