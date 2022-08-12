@@ -1,11 +1,10 @@
-<div align="center">
-## Hi there 👋, I'm Platon and I'm a Programmer.
+### Hi there 👋, I'm Platon and I'm a Programmer.
 
 ![](https://komarev.com/ghpvc/?username=Master-Stroke)
 
-### I'm a Programmer
-💪 I like to write code
-🥅 I am constantly learning new things
+## I'm a Programmer
+- 💪 I like to write code
+- 🥅 I am constantly learning new things
 
 ### Languages what I'm using
 <img align="left" alt="" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
@@ -21,4 +20,3 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Stroke&langs_count=8&layout=compact" />
 <br />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Master-Stroke&show_icons=true" />
-</div>
