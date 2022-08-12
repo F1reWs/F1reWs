@@ -13,7 +13,7 @@
 <img align="left" alt="" width="23px" src="./img/programming_language/sql.png" />
 <img align="left" alt="HTML5" width="26px" src="./img/programming_language/html.png" />
 <img align="left" alt="CSS3" width="26px" src="./img/programming_language/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="js.png" />
+<img align="left" alt="JavaScript" width="26px" src="./img/programming_language/js.png" />
 <img align="left" alt="" width="55px" src="./img/programming_language/php.png" />
 
 
