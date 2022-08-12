@@ -1,5 +1,5 @@
 <div align="center">
-### Hi there 👋, I'm Platon and I'm a Programmer.
+## Hi there 👋, I'm Platon and I'm a Programmer.
 
 ![](https://komarev.com/ghpvc/?username=Master-Stroke)
 
