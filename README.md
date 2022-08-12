@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Platon and I'm a Programmer.
 
 ![](https://komarev.com/ghpvc/?username=Master-Stroke)
+<img height="18" src="https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg" />
 
 ## I'm a Programmer
 - 💪 I like to write code
