@@ -1,11 +1,11 @@
 <div align="center">
-# Hi there 👋, I'm Platon and I'm a Programmer.
+## Hi there 👋, I'm Platon and I'm a Programmer.
 
 ![](https://komarev.com/ghpvc/?username=Master-Stroke)
 
 ## I'm a Programmer
-- 💪 I like to write code
-- 🥅 I am constantly learning new things
+💪 I like to write code
+🥅 I am constantly learning new things
 
 ### Languages what I'm using
 <img align="left" alt="" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
