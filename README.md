@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Platon and I'm a Programmer.
+<h1>
+   Hey there <img src="./img/hi.gif" width="30px"> ! I'm Azer Sadykhzadeh
+</h1>
 
 ![](https://komarev.com/ghpvc/?username=Master-Stroke)
 
