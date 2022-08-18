@@ -16,7 +16,6 @@
 <img align="left" alt="JavaScript" width="26px" src="./img/programming_language/js.png" />
 <img align="left" alt="" width="55px" src="./img/programming_language/php.png" />
 
-<--!0-->
 <br />
 <br />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Stroke&langs_count=8&layout=compact" />
