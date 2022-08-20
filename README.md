@@ -7,6 +7,8 @@
 ## I'm a Front-End Developer, Telegram and Discord bots Developer
 - 💪 I like write code
 - 🥅 I am constantly learning new things
+- 💻 I like doing sites
+- 🤖 I like doing TG and DS bots
 
 ### Languages what I'm using
 <img align="left" alt="" width="26px" src="./img/programming_language/python.png" />
