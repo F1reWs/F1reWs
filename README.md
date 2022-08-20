@@ -10,6 +10,14 @@
 - 💻 I like doing sites
 - 🤖 I like doing TG and DS bots
 
+## Links
+- [Telegram](https://t.me/MasterStroke777)
+- [Telegram channel](https://t.me/official_programmerchannel)
+- [Telegram Chat](https://t.me/official_programmerchat)
+- [Site](http://klondikeprogrammers.ga)
+- [Site Bio](https://Master-Stroke.github.io)
+- [More INFO](https://t.me/official_MasterStroke777)
+
 ### Languages what I'm using
 <img align="left" alt="" width="26px" src="./img/programming_language/python.png" />
 <img align="left" alt="" width="23px" src="./img/programming_language/sql.png" />
