@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Master-Stroke)
 
-## I'm a Programmer
+## I'm a Front-End Developer, Telegram and Discord bots Developer
 - 💪 I like write code
 - 🥅 I am constantly learning new things
 
