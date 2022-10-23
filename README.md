@@ -11,6 +11,7 @@
 - 🤖 I like doing TG and DS bots
 
 ## Links
+- [YouTube](https://www.youtube.com/channel/UCi6nEt6RZ6t6Il3SHkPuaVA)
 - [Telegram](https://t.me/MasterStroke777)
 - [Telegram channel](https://t.me/official_programmerchannel)
 - [Telegram Chat](https://t.me/official_programmerchat)
