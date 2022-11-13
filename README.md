@@ -15,6 +15,7 @@
 - [Telegram](https://t.me/MasterStroke777)
 - [Discord](https://klondikeprogrammers.ga/discord)
 - [Telegram channel](https://t.me/official_programmerchannel)
+- [My Telegram channel of Wallpapers](https://t.me/https://t.me/cool_wallpapers01)
 - [Telegram Chat](https://t.me/official_programmerchat)
 - [Site](http://klondikeprogrammers.ga)
 - [Site Bio](https://Master-Stroke.github.io)
