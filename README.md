@@ -38,4 +38,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Stroke&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Master-Stroke&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=innocoffee&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master-Stroke&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
