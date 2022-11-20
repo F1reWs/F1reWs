@@ -32,5 +32,5 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Stroke&show_icons=true&theme=merko&border_radius=10&hide_border=true&hide_title=false&langs_count=100&layout=compact)](https://github.com/Master-Stroke)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Master-Stroke&count_private=true&show_icons=true&theme=merko&border_radius=10&hide_border=true&hide_title=true)](https://github.com/Master-Stroke)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Stroke&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=false&langs_count=100&layout=compact)](https://github.com/Master-Stroke)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Master-Stroke&count_private=true&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=true)](https://github.com/Master-Stroke)
