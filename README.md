@@ -32,8 +32,10 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Stroke&show_icons=true&theme=radicala&border_radius=10&hide_border=true&hide_title=false&langs_count=100)](https://github.com/Master-Stroke)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Stroke&show_icons=true&theme=radicala&border_radius=10&hide_border=true&hide_title=false&langs_count=100&layout=compact)](https://github.com/Master-Stroke)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Master-Stroke&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true)](https://github.com/Master-Stroke)
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Stroke&langs_count=8&layout=compact" />
+https://github-readme-stats.vercel.app/api/top-langs/?username=hikariatama&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=3
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Stroke&langs_count=100&layout=compact" />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Master-Stroke&show_icons=true" />
