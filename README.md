@@ -32,5 +32,5 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Stroke&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=100)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Master-Stroke&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Stroke&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=100)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Master-Stroke&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true)
