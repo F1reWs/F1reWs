@@ -6,8 +6,6 @@
 
 ## I'm a Front-End Developer, Telegram and Discord bots Developer
 
-<hr>
-
 ## Links
 - [YouTube](https://www.youtube.com/channel/UCi6nEt6RZ6t6Il3SHkPuaVA)
 - [Telegram](https://t.me/MasterStroke777)
