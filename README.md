@@ -15,8 +15,9 @@
 - [Site](http://klondikeprogrammers.ga)
 - [Site Bio](https://Master-Stroke.github.io)
 - [More INFO](https://t.me/official_MasterStroke777)
+<hr>
 
-### Languages what I'm using
+### Languages I'm using
 <img align="left" alt="" width="26px" src="./img/programming_language/python.png" />
 <img align="left" alt="" width="23px" src="./img/programming_language/sql.png" />
 <img align="left" alt="HTML5" width="26px" src="./img/programming_language/html.png" />
