@@ -8,6 +8,7 @@
 
 ## Links
 - [YouTube](https://www.youtube.com/channel/UCi6nEt6RZ6t6Il3SHkPuaVA)
+- [SharkUB](https://github.com/Master-Stroke/SharkUserBot)
 - [Telegram](https://t.me/MasterStroke777)
 - [Discord](https://klondikeprogrammers.ga/discord)
 - [Telegram channel](https://t.me/official_programmerchannel)
