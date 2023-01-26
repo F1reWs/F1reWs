@@ -5,10 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=Master-Stroke)
 
 ## I'm a Front-End Developer, Telegram and Discord bots Developer
-- 💪 I like write code
-- 🥅 I am constantly learning new things
-- 💻 I like doing sites
-- 🤖 I like doing TG and DS bots
 
 ## Links
 - [YouTube](https://www.youtube.com/channel/UCi6nEt6RZ6t6Il3SHkPuaVA)
