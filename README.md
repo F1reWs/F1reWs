@@ -15,7 +15,7 @@
 <img align="left" alt="CSS3" width="26px" src="./img/programming_language/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="./img/programming_language/js.png" />
 <img align="left" alt="" width="55px" src="./img/programming_language/php.png" />
-<img align="left" alt="" width="55px" src="./img/programming_language/django.png" />
+<img align="left" alt="" width="26px" src="./img/programming_language/django.png" />
 
 <br />
 <br />
