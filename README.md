@@ -1,5 +1,5 @@
 <h1>
-   Hey there <img src="./img/hi.gif" width="30px">, I'm F1reW
+   Hey there <img src="./img/hi.gif" width="30px">, I'm Firew
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=F1reWs)
