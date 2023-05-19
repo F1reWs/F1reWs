@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=F1reWs)
 
-## I'm a Front-End Developer, Telegram and Discord bots Developer
+## Full-stack Developer
 
 <hr>
 
