@@ -3,7 +3,7 @@
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=F1reWs)
-<a href="https://wakatime.com/F1reW"> <img height="18" src="https://wakatime.com/badge/user/3d28e434-f6b9-44d5-b338-e192847e5aa7.svg" /> </a>
+<a href="https://wakatime.com/@3d28e434-f6b9-44d5-b338-e192847e5aa7"><img src="https://wakatime.com/badge/user/3d28e434-f6b9-44d5-b338-e192847e5aa7.svg" alt="Total time coded since Dec 18 2022" /></a>
 
 ## Full-stack Developer
 
