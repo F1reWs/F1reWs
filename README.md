@@ -3,6 +3,7 @@
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=F1reWs)
+<a href="https://wakatime.com/Azer"> <img height="18" src="https://wakatime.com/badge/user/f80ae27a-c328-426f-a381-bc84136e2dd6.svg" /> </a>
 
 ## Full-stack Developer
 
